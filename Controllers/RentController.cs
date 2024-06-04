@@ -17,4 +17,8 @@ public class RentController : Controller
     {
         return View();
     }
+
+    public IActionResult Booking() {
+        return View();
+    }
 }
