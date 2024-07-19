@@ -2818,6 +2818,20 @@ section,
   background-color: #4d90fe;
 }
 
+.button-group {
+  display: flex;
+  gap: 0;
+}
+.button-group .btn {
+  margin-right: 5;
+}
+
+.btn-catering {
+  margin-left: 5px !important;
+  background-color: #f85a40 !important;
+  border: #1f1f24 !important;
+}
+
 /* .container-hero {
   position: relative;
   background-size: cover;
